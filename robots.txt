@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-qnt6u3.pulaucuan.com/sitemap.xml
